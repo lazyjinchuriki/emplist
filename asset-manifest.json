@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emplist/static/css/main.4d0a4b33.css",
+    "main.js": "/emplist/static/js/main.db2adee2.js",
+    "index.html": "/emplist/index.html",
+    "main.4d0a4b33.css.map": "/emplist/static/css/main.4d0a4b33.css.map",
+    "main.db2adee2.js.map": "/emplist/static/js/main.db2adee2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d0a4b33.css",
+    "static/js/main.db2adee2.js"
+  ]
+}
