@@ -1,0 +1,12 @@
+.navbar {
+    padding-top: 4vh;
+}
+
+.search-input {
+    padding: 15px;
+    border: 2px solid #2b2b2b;
+    border-radius: 50px;
+    margin-right: 10px;
+    width: 300px;
+    font-size: 14px;
+}
