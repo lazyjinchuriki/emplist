@@ -38,7 +38,7 @@ npm start
 
 Here are some screenshots of Employee List in action:
 
-![Homepage screenshot](/Screenshots/homepage.png)
+![Homepage screenshot](src/Screenshots/homepage.png)
 
 ## Credits
 
